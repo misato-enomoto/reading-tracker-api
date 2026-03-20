@@ -40,8 +40,11 @@ docker compose up --build
 ## ■ API確認
 
 http://localhost:8000/docs
-<img width="1449" height="793" alt="image" src="https://github.com/user-attachments/assets/a97a9ab8-43d4-49ab-9f1a-06dd586d18e9" />
-<img width="1070" height="843" alt="image" src="https://github.com/user-attachments/assets/1073b551-cf67-4147-8bb2-3c19b05819cb" />
+
+## ■ API画面
+
+![GET](./docs/swagger_get.png)
+![POST](./docs/swagger_post.png)
 
 ---
 
